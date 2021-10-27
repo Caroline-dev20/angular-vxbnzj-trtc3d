@@ -1,1 +1,31 @@
-
+{
+  "Postagens": [
+    {
+      "id": 1,
+      "título": "Postagem 1"
+    },
+    {
+      "id": 2,
+      "título": "Postagem 2"
+    },
+    {
+      "id": 3,
+      "título": "Postagem 3"
+    }
+  ],
+  "comentários": [
+    {
+      "id": 1,
+      "body": "algum comentário",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "algum comentário",
+      "postId": 1
+    }
+  ],
+  "perfil": {
+    "nome": "código do tipo"
+  }
+}
