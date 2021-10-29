@@ -1,31 +1,40 @@
 {
-  "Postagens": [
-    {
-      "id": 1,
-      "título": "Postagem 1"
-    },
-    {
-      "id": 2,
-      "título": "Postagem 2"
-    },
-    {
-      "id": 3,
-      "título": "Postagem 3"
-    }
-  ],
-  "comentários": [
-    {
-      "id": 1,
-      "body": "algum comentário",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "algum comentário",
-      "postId": 1
-    }
-  ],
-  "perfil": {
-    "nome": "código do tipo"
-  }
+    "ceps": [
+        {
+            "cep": "01001-000",
+            "logradouro": "Praça da Sé",
+            "complemento": "lado ímpar",
+            "bairro": "Sé",
+            "localidade": "São Paulo",
+            "uf": "SP",
+            "ibge": "3550308",
+            "gia": "1004",
+            "ddd": "11",
+            "siafi": "7107"
+        },
+        {
+            "cep": "76821-094",
+            "logradouro": "Rua Aparício Moraes",
+            "complemento": "de 3619/3620 a 3868/3869",
+            "bairro": "Industrial",
+            "localidade": "Porto Velho",
+            "uf": "RO",
+            "ibge": "1100205",
+            "gia": "",
+            "ddd": "69",
+            "siafi": "0003"
+        },
+        {
+            "cep": "68460-260",
+            "logradouro": "Rua São Lucas",
+            "complemento": "",
+            "bairro": "Bom Jesus",
+            "localidade": "Tucuruí",
+            "uf": "PA",
+            "ibge": "1508100",
+            "gia": "",
+            "ddd": "94",
+            "siafi": "0561"
+        }
+    ]
 }
